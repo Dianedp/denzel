@@ -1,5 +1,5 @@
 /* eslint-disable no-console, no-process-exit */
-const imdb = require('./imdb');
+const imdb = require('./imdb.js');
 const DENZEL_IMDB_ID = 'nm0000243';
 const METASCORE = 77;
 
